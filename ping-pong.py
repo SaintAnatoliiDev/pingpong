@@ -92,3 +92,5 @@ while game:
  
    display.update()
    clock.tick(FPS)
+
+# место для продолдения программы
